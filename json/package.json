@@ -11,7 +11,7 @@
     "fs": "0.0.1-security",
     "readline-sync": "^1.4.10",
     "write": "^2.0.0",
-    "write-json-file": "^4.3.0"
+    "write-json-file": "^5.0.0"
   },
   "devDependencies": {},
   "description": ""
